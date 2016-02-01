@@ -94,4 +94,4 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 
 The run_analysis_test.r file is a script that takes the train and test sets, both sets of labels, as well as the features and subjects and combines them all into one set.
 
-It then takes the comprehensive data table, and creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+It then takes the comprehensive data table, and creates a second, independent tidy data (tidy_data.txt) set with the average of each variable for each activity and each subject.
